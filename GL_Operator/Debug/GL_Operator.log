@@ -1,0 +1,27 @@
+﻿生成启动时间为 2020/12/15 19:33:17。
+     1>项目“D:\MQS_OpenCv\GL_Operator\GL_Operator.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\GL_Operator.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Visual Studio 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GL_Operator.cpp
+         GL_Operator.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\GL_Operator.exe.embed.manifest.res" Debug\GL_Operator_manifest.rc 
+       Link:
+         d:\Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MQS_OpenCv\GL_Operator\Debug\GL_Operator.exe" /INCREMENTAL /NOLOGO "D:\OpenCV_old\opencv\build\x86\vc10\lib\*d.lib" "D:\OpenCV_old\opencv\build\x86\vc10\staticlib\*d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\GL_Operator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\MQS_OpenCv\GL_Operator\Debug\GL_Operator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MQS_OpenCv\GL_Operator\Debug\GL_Operator.lib" /MACHINE:X86 Debug\GL_Operator.exe.embed.manifest.res
+         Debug\GL_Operator.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\GL_Operator.exe.embed.manifest" /manifest Debug\GL_Operator.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\GL_Operator.exe.embed.manifest.res" Debug\GL_Operator_manifest.rc 
+       LinkEmbedManifest:
+         d:\Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MQS_OpenCv\GL_Operator\Debug\GL_Operator.exe" /INCREMENTAL /NOLOGO "D:\OpenCV_old\opencv\build\x86\vc10\lib\*d.lib" "D:\OpenCV_old\opencv\build\x86\vc10\staticlib\*d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\GL_Operator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\MQS_OpenCv\GL_Operator\Debug\GL_Operator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MQS_OpenCv\GL_Operator\Debug\GL_Operator.lib" /MACHINE:X86 Debug\GL_Operator.exe.embed.manifest.res
+         Debug\GL_Operator.obj
+         GL_Operator.vcxproj -> D:\MQS_OpenCv\GL_Operator\Debug\GL_Operator.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\GL_Operator.unsuccessfulbuild”。
+         正在对“Debug\GL_Operator.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\MQS_OpenCv\GL_Operator\GL_Operator.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.01

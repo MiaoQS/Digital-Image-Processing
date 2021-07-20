@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Canny Edge Detection", "Canny Edge Detection\Canny Edge Detection.vcxproj", "{A040D1EE-1CD5-4DB8-B7BE-CAE94A2A3ED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A040D1EE-1CD5-4DB8-B7BE-CAE94A2A3ED0}.Debug|x64.ActiveCfg = Debug|x64
+		{A040D1EE-1CD5-4DB8-B7BE-CAE94A2A3ED0}.Debug|x64.Build.0 = Debug|x64
+		{A040D1EE-1CD5-4DB8-B7BE-CAE94A2A3ED0}.Debug|x86.ActiveCfg = Debug|Win32
+		{A040D1EE-1CD5-4DB8-B7BE-CAE94A2A3ED0}.Debug|x86.Build.0 = Debug|Win32
+		{A040D1EE-1CD5-4DB8-B7BE-CAE94A2A3ED0}.Release|x64.ActiveCfg = Release|x64
+		{A040D1EE-1CD5-4DB8-B7BE-CAE94A2A3ED0}.Release|x64.Build.0 = Release|x64
+		{A040D1EE-1CD5-4DB8-B7BE-CAE94A2A3ED0}.Release|x86.ActiveCfg = Release|Win32
+		{A040D1EE-1CD5-4DB8-B7BE-CAE94A2A3ED0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51DA5E2B-0583-429D-BE8A-D1AC2CF5183A}
+	EndGlobalSection
+EndGlobal
